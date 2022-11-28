@@ -1,0 +1,11 @@
+<!doctype html>
+<title>Searchy results</title>
+<h1>My search engine</h1>
+<p>Results for <code>{{ query }}</code>:</p>
+<ol>
+{% for result in results %}
+  <li><a>{{ result.name }}
+            <p>Address:  {{result.address}}</p> 
+            <p>Operations: {{result.operation}}</p> </a></li>
+{% endfor %}
+</ol>

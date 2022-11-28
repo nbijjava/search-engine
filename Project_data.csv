@@ -1,0 +1,260 @@
+State,County,Market Name,Address,Hours of Operations,type of Market
+NJ,Middlesex,Altamont Orchards Farm Stand,6654 Dunnsville Rd Altamont,Mon-Fri 10am-5pm,Farmers Market
+NJ,Middlesex,Delaware Community Farmers' Market,"Delaware Branch Library, 331 Delaware Ave Albany",Tue 4pm-7pm,Farmers Market
+NJ,Middlesex,Delmar Saturday Farmers' Market,"Bethlehem Middle School, 332 Kenwood Ave",Sat 9am-1pm,Farmers Market
+NJ,Middlesex,Empire State Plaza Wed Farmers' Market,"Empire State Plaza, (Winter inside South Concourse)",Wed 10am-2pm,Farmers Market
+NJ,Middlesex,Farmers' Market at the Crossings,580 Albany Shaker Rd Loudonville,Sat 9am-1pm,Farmers Market
+NJ,Middlesex,New Covenant Farmers' Market,"New Covenant Presbyterian Church, 916 Western Ave Albany",Tue 3pm-6pm,Farmers Market
+NJ,Middlesex,South End Healthy Farmers Market,Warren St between Phillip and Grand  Albany,Thursday  5pm-8pm,Farmers Market
+NJ,Middlesex,The Gade Farm Farm Stand,2479 Western Ave Altamont,"Mon-Sat 9am-6pm",Farmers Market
+NJ,Middlesex,Veggie Mobile Sprout-Creighton Storey Homes,158 3rd Street Albany,Thu 3:45pm-4:15pm,Farmers Market
+NJ,Middlesex,Veggie Mobile Sprout-Howe Library,Schuyler St and Broad St Albany,Tue 3pm-3:45pm,Farmers Market
+NJ,Morrise,Veggie Mobile Sprout-Jim DiNapoli Park,Pine St & Broadway Albany,Fri 11:45am-12:15pm,Farmers Market
+NJ,Morrise,Veggie Mobile Sprout-Koinonia Primary Care,553 Clinton Ave & N Lake Ave Albany,Tue 2pm-2:45pm,Farmers Market
+NJ,Morrise,Veggie Mobile Sprout-Robert Whalen,305 Colonie Street Albany,Wed 11:15am-12pm,Farmers Market
+NJ,Morrise,Veggie Mobile Sprout-St. Sophia Church,440 Whitehall Rd. Albany,Wed 12:15pm-1:15pm,Farmers Market
+NJ,Morrise,Veggie Mobile-Arbor Hill/Oak Street Park,Oak St and Second St Albany,Thu 12:45pm-1:30pm,Farmers Market
+NJ,Morrise,Veggie Mobile-Center for Disability,700 South Pearl St Albany,Tue 12:15pm-1pm,Farmers Market
+NJ,Morrise,Veggie Mobile-Cohoes Senior Ctr,100 Cayuga Plaza Cohoes,Wed 3pm-4pm,Farmers Market
+NJ,Morrise,Veggie Mobile-South Mall Towers,101 S Pearl St Albany,Fri 11am-12:15pm,Farmers Market
+NJ,Morrise,Veggie Mobile-Steamboat Square Apts,20 Rensselaer St Albany,Wed 11am-11:45am,Farmers Market
+NJ,Morrise,Veggie Mobile-Thurlow Terrace,2 Thurlow Terrace Albany,Wed 12pm-1pm,Farmers Market
+NJ,Essex,Veggie Mobile-Whitney Young Health Ctr,920 Lark Drive Albany,Tue 11am-12pm,Farmers Market
+NJ,Essex,Voorheesville Farmers' Market,"First United Methodist Church lot, 68 Maple Ave",Wed 3:30pm-6:30pm,Farmers Market
+NJ,Essex,Alfred Farmers' Market,3 South Main St,Sun 11am-3pm,Farmers Market
+NJ,Essex,Angelica Farmers' Market,49 Park Circle Angelica,Sat 9am-2pm,Farmers Market
+NJ,Essex,Backporch Produce,10260 Fairview Rd Farmersville Station,Daily  9am-8pm,Farmers Market
+NJ,Essex,Belmont Farmers' Market,5429 NYS Route 19N,Thu 11am-4pm,Farmers Market
+NJ,Essex,Fillmore Farmers' Market,"Fillmore Central School , 35 S Genesee St",Sat 9am-1pm,Farmers Market
+NJ,Essex,On the River Farm Stand,7579 Route 19 Belfast,"Fri 5am-7pm",Farmers Market
+NJ,Essex,Ramsey Fresh Foods Farm Stand,3702 State Route 19 Scio,Daily 9am-8pm,Farmers Market
+NJ,Essex,Riverside Farms Farm Market,3314 Riverside Drive  Scio,"Mon-Sat  10am-6pm",Farmers Market
+NJ,Union ,Wagoner Bees & Produce Farm Stand,11137 Wayne Rd Fillmore,"Sat 12-6  Sun 1-5",Farmers Market
+NJ,Union ,170 Farm Stand,1411 Townsend Ave and 170th st,Wed 2:30-6pm,Farmers Market
+NJ,Union ,Bissel Gardens Farmers' Market-Sat,Baychester Ave below the E 241 St intersection,Sat 10am-4pm,Farmers Market
+NJ,Union ,Bronx Borough Hall Greenmarket,900 Concourse Plaza,Tue 8am-4pm,Farmers Market
+NJ,Union ,Bronx Park East Farmers' Market,2222 Bronx Park E,Sun 9am-1pm,Farmers Market
+NJ,Union ,BronxWorks Farm Stand,1130 Grand Concourse,Thu 10am-4pm,Farmers Market
+NJ,Union ,Castle Hill GrowNYC Farm Stand,625 Castle Hill Ave Bronx,Sat 10am-3pm,Farmers Market
+NJ,Union ,Eastchester GrowNYC Farm Stand,E 229th St at Schieffelin Ave Bronx,Thu 9:30am-3pm,Farmers Market
+NJ,Union ,Harvest Home Co-op City Farm Stand,Asch Loop & Aldrich St.,Wed 8am-4pm,Farmers Market
+NJ,Union ,Harvest Home Hunts Point Farmers' Market,"Monsignor Del Valle Park, E 163 St btwn Southern & Bruckner Blvds",Wed 8am-4pm,Farmers Market
+NJ,Bergan,Harvest Home Jacobi Hospital Fri Farmers' Market,1400 Pelham Parkway,Fri  8am-4pm,Farmers Market
+NJ,Bergan,Harvest Home Mt. Eden Farmers' Market,"Claremont Park, Mt. Eden PKWY  & Morris Ave",Tue/Thu 8am-4pm,Farmers Market
+NJ,Bergan,Harvest Home N Central Bronx Farmers' Market,E. Mosholu Parkway N. & Jerome Ave.,Wed 8am-4pm,Farmers Market
+NJ,Bergan,Harvest Home St. Marys Park Farm Stand,E 149th St. & Eagle Ave,Thursday  8am-4pm,Farmers Market
+NJ,Bergan,Healthy Choice Farmers' Market Farm Stand,1434 Longfellow Ave Bronx,Thu 10:30am-1:30pm,Farmers Market
+NJ,Bergan,James Baldwin OLC Farmers' Market,Sedgwick at Goulden Ave Bronx,Sat 10am-3pm,Farmers Market
+NJ,Bergan,La Familia Verde Farmers' Market,Walter Gladwin Park,Tue 8am-2pm,Farmers Market
+NJ,Bergan,La Familia Verde/ Highbridge Farmers' Market,1430 Plimpon Ave Bronx,Wed 9am-2pm,Farmers Market
+NJ,Bergan,Lincoln Hospital Fri Greenmarket,234 E 149th St btwn Park and Morris Aves,Fri 8am-3pm,Farmers Market
+NJ,Bergan,Lincoln Hospital Tue Greenmarket,234 E 149th St btwn Park and Morris Aves,Tue 8am-3pm,Farmers Market
+CT,Hartford,Suffield Farmers Market,"Town Green, North Main and High Streets Suffield, Connecticut 6078",Tue 8am-3pm,Farmers Market
+CT,Hartford,Hill-Stead Museum Farmers Market,"35 Mountain Road Farmington, Connecticut 6032", 11:00 AM-2:00 PM,Farmers Market
+CT,Hartford,urban oaks organic farm,"225 Oak St.New Britain, Connecticut 6051", 2:00 PM-6:00 PM,Farmers Market
+CT,Hartford,BERLIN FARMERS’ MARKET,"Veterans Memorial Park Berlin, Connecticut", 2:00 PM-6:00 PM,Farmers Market
+CT,Hartford,Collinsville Farmers Market,"4 Market Street Collinsville, Connecticut 6019", 2:00 PM-6:00 PM,Farmers Market
+CT,Hartford,East Hartford Farmers Market,"840 Main Street, Raymond Memorial Library Manchester, Connecticut 6040", 10:00 AM-1:00 PM,Farmers Market
+CT,Hartford,Hartford Regional Market,"I-91, Exit 27, 101 Reserve Road Hartford, Connecticut 6114", 10:00 AM-1:00 PM,Farmers Market
+CT,Hartford,East Granby Farmers’ Market,"3 Turkey Hills Road East Granby, Connecticut", 10:00 AM-1:00 PM,Farmers Market
+CT,Hartford,WETHERSFIELD FARMERS’ MARKET,"220 Hartford Ave. Wethersfield, Connecticut 6109", 3:00 PM-6:00 PM,Farmers Market
+CT,Hartford,Hartford's North End Farmers' Market,"80 Coventry St Hartford, Connecticut 6112", 10:00 AM-1:00 PM,Farmers Market
+CT,Litchfield,NORFOLK FARMERS’ MARKET,"Center of Town, Rte. 44 Norfolk, Connecticut",Fri 8am-3pm,Farmers Market
+CT,Litchfield,Torrington Farmers Market,"Staples Plaza, South Main Street Torrington, Connecticut 6790",Tue 8am-3pm,Farmers Market
+CT,Litchfield,CORNWALL FARMERS’ MARKET,"413 Route 128, Near Covered Bridge Cornwall, Connecticut",Tue 8am-3pm,Farmers Market
+CT,Litchfield,Kent Farmers Market,"Kent Green Kent, Connecticut 6757", 11:00 AM-2:00 PM,Farmers Market
+CT,Litchfield,NEW HARTFORD FARMERS’ MARKET,"Pine Meadow Green, Rte. 44 and Church St. New Hartford, Connecticut", 2:00 PM-6:00 PM,Farmers Market
+CT,Litchfield,Litchfield Hills Farm-Fresh Market,"421 Bantam Road Litchfield, Connecticut 6759", 2:00 PM-6:00 PM,Farmers Market
+CT,Litchfield,Thomaston Farmers Market,"Town Green at Main Street- Seth Thomas Park Thomaston, Connecticut 6787", 10:00 AM-1:00 PM,Farmers Market
+CT,Litchfield,WOODBURY FARMERS’ MARKET,"Hollow Park, 43 Hollow Road Woodbury, Connecticut", 11:00 AM-2:00 PM,Farmers Market
+CT,Litchfield,New Milford Farmers Market,"Town Green at Main St. New Milford, Connecticut 6776", 2:00 PM-6:00 PM,Farmers Market
+CT,Litchfield,Morris Farmers' Market,"Morris Senior Center Morris, Connecticut", 2:00 PM-6:00 PM,Farmers Market
+CT,New Haven,Meriden Farmers Market,"Butler Street parking lot Meriden, Connecticut 6450",Fri 8am-3pm,Farmers Market
+CT,New Haven,WATERBURY - MALL FARMERS’ MARKET,"Brass City Mall, West Parking Lot Waterbury, Connecticut",Tue 8am-3pm,Farmers Market
+CT,New Haven,CitySeed Edgewood Park Farmers Market,"Whalley Ave. and West Rock Ave.New Haven, Connecticut 6515",Tue 8am-3pm,Farmers Market
+CT,New Haven,HAMDEN - SPRING GLEN FARMERS’ MARKET,"Spring Glen Church, 1825 Whitney Avenue Hamden, Connecticut", 11:00 AM-2:00 PM,Farmers Market
+CT,New Haven,Naugatuck Farmers Market,"On the Green, Church Street Naugatuck, Connecticut", 2:00 PM-6:00 PM,Farmers Market
+CT,New Haven,MIDDLEBURY FARMERS’ MARKET,"Middlebury Senior Center, 1172 Whittemore Road Middlebury, Connecticut", 2:00 PM-6:00 PM,Farmers Market
+CT,New Haven,WATERBURY - FULTON PARK FARMERS’ MARKET,"Fulton Park Greenhouse Waterbury, Connecticut", 10:00 AM-1:00 PM,Farmers Market
+CT,New Haven,MADISON FARMERS’ MARKET,"Madison Historic Town Green Madison, Connecticut", 11:00 AM-2:00 PM,Farmers Market
+CT,New Haven,MILFORD - DOWNTOWN FARMERS’ MARKET,"58 River Street, Corner of Darina Place & River Street Milford, Connecticut", 2:00 PM-6:00 PM,Farmers Market
+CT,New Haven,BethanyFarmersMarket,"Route 63 Bethany, Connecticut 6524", 2:00 PM-6:00 PM,Farmers Market
+CT,New London,Preston Farmers’ Market,"#1 Route 164 Preston, Connecticut", 2:00 PM-6:00 PM,Farmers Market
+CT,New London,Bozrah Farmers Market,"45 Bozrah Street Bozrah, Connecticut 6334", 2:00 PM-6:00 PM,Farmers Market
+CT,New London,Colchester Farmers’ Market,"395 South Main Street Colchester, Connecticut", 4:00 PM-7:00 PM,Farmers Market
+CT,New London,Stonington Farmers Market,"11 Northwest Street, Town Dock Stonington, Connecticut 6378", 9:00 AM-12:00 PM,Farmers Market
+CT,New London,New London Field of Greens Markets,"Corner of State and Bank Streets - Parade Plaza New London, Connecticut 6320", 10:00 AM-2:00 PM,Farmers Market
+CT,New London,LEDYARD – TRI-TOWN FARMERS’ MARKET,"Tri-Town Center Parking Lot, Rte. 117 Ledyard, Connecticut", 10:00 AM-2:00 PM,Farmers Market
+CT,New London,Lebanon Farmers Market,"579 Exeter Road Lebanon, Connecticut 6249", 10:00 AM-2:00 PM,Farmers Market
+CT,New London,New London Field of Greens Markets,"365 Montauk Avenue New London, Connecticut 6320", 12:00 PM-4:00 PM,Farmers Market
+CT,New London,Waterford Farmers' Market,"15 Rope Ferry Road Waterford, Connecticut 6385",9:00 AM - 12:00 PM;,Farmers Market
+CT,New London,Mystic/Denison Farmers Market,"120 Pequotsepos Rd. Mystic, Connecticut 6355",9:00 AM - 12:00 PM;,Farmers Market
+CT,Windham,ASHFORD FARMERS’ MARKET,"Pompey Hollow Park, across from the Town Hall Ashford, Connecticut", 2:00 PM-6:00 PM,Farmers Market
+CT,Windham,SOUTHINGTON - PLANTSVILLE FARMERS’ MARKET,"997-1003 South Main Steet Plantsville, Connecticut", 2:00 PM-6:00 PM,Farmers Market
+CT,Windham,Burlington Farmers Market,"Burlington Congregational Church Burlington, Connecticut 6013", 2:00 PM-6:00 PM,Farmers Market
+CT,Windham,WINDSOR FARMERS’ MARKET,"Corner of Maple Avenue & Broad Street Windsor, Connecticut", 2:00 PM-6:00 PM,Farmers Market
+CT,Windham,ENFIELD FARMERS’ MARKET,"Enfield Town Green, Town Hall, Rte. 5 Enfield, Connecticut", 4:00 PM-7:00 PM,Farmers Market
+CT,Windham,Hartford - West End Farmers Market,"571 Farmington Avenue and South Whitney Street Hartford, Connecticut 6105", 9:00 AM-12:00 PM,Farmers Market
+CT,Windham,Putnam Farmers Market,"18 Kennedy Drive Putnam, Connecticut 6260", 10:00 AM-2:00 PM,Farmers Market
+CT,Windham,Plainfield Farmers Market,"482 Norwich Road (Route 12) Plainfield, Connecticut 6354", 10:00 AM-2:00 PM,Farmers Market
+CT,Windham,Danielson Farmers Market,"Killingly Memorial Library, 25 Westcott Road Danielson, Connecticut 6239", 10:00 AM-2:00 PM,Farmers Market
+CT,Windham,Scotland Farmers Market,"Scotland Green, Junction Route 14 and 97 Scotland, Connecticut 6264", 12:00 PM-4:00 PM,Farmers Market
+NY,Manhattan,Morningside Park's Down to Earth Farmers' Market,W 110th St & Manhattan Ave,9am-4pm (winter closes at 3pm),Farmers Market
+NY,Manhattan,Fulton Stall Market,Pier 17 Square,11am-5pm,Farmers Market 
+NY,Manhattan,Tompkins Square Greenmarket,E. 7th St. & Avenue A,9am - 5pm,Farmers Market
+NY,Manhattan,Hamilton Heights Green Youthmarket,"Amsterdam bet W 143rd & 144th Sts., at Johnny Hartman Plaza",11am-6pm,Farmers Market
+NY,Manhattan,175th Street Greenmarket,W 175th St bet Wadsworth Ave & Broadway,8am - 4pm,Farmers Market
+NY,Manhattan,Rockefeller Center Greenmarket,Rockefeller Plaza bet W 49th & 50th Sts (Jul-Aug only),8am - 5pm,Farmers Market
+NY,Manhattan,Columbia University Greenmarket,Broadway & W 114th St,8am-4pm,Farmers Market
+NY,Manhattan,Go!Healthy Farm Stand at Mirabal Sisters Campus,21 Jumel Pl.,11am-2pm,Farmers Market
+NY,Manhattan,79th Street Greenmarket,Columbus Ave bet W 78th & 81st Sts,9am - 5pm,Farmers Market
+NY,Manhattan,Dag Hammarskjold Plaza Greenmarket,E 47th St & 2nd Ave,8am-4pm,Farmers Market
+NY,Bronx,170 Farm Stand,E 170th St & Townsend Ave,2:30pm-6:30pm,Farmers Market
+NY,Bronx,Eastchester Farmstand,E 229th Street and Schieffelin Avenue,9:30am-3pm,Farmers Market
+NY,Bronx,Harvest Home Mt. Eden Farmers' Market,Mt Eden & Morris Aves,8am-4pm,Farmers Market
+NY,Bronx,St. Barnabas Hospital Farm Stand & C.S.A.,4422 3rd Ave.,10 a.m. - 5 p.m.,Farmers Market
+NY,Bronx,Teens for Food Justice Fresh Food Box & Farmstand at Dewitt Clinton Educational Campus,100 West Mosholu Parkway South,4-6pm,Farmers Market
+NY,Bronx,La Familia Verde Farmers' Market,E Tremont Ave bet LaFontaine & Arthur Aves,8am-2pm,Farmers Market
+NY,Bronx,Norwood Farmstand,E Gun Hill Rd & Dekalb Ave,10am-5pm,Farmers Market
+NY,Bronx,Bissel Gardens Farmers Market,Baychester Ave & E 241st St,10am-5pm,Farmers Market
+NY,Bronx,Fordham Plaza Greenmarket,Park Ave bet E 189th St & E Fordham Rd,8am-4pm,Farmers Market
+NY,Bronx,Parkchester Greenmarket,Westchester Ave & White Plains Rd,8am - 4pm,Farmers Market
+NY,Queens,Corona Greenmarket,Roosevelt Ave & 103rd St,8am - 3pm,Farmers Market
+NY,Queens,Far Rockaway Farmstand,385 Beach 45th St,10am-2pm,Farmers Market
+NY,Queens,Jackson Heights Greenmarket,34th Ave bet 79th & 80th Sts,8am - 2pm,Farmers Market
+NY,Queens,Flushing Greenmarket,"Kissena Blvd. & Maple Ave., at Maple Playground",8am - 3pm,Farmers Market
+NY,Queens,Socrates Sculpture Garden,31-30 Vernon Boulevard,10am-2pm,Farmers Market
+NY,Queens,Sunnyside Greenmarket,Skillman Ave bet 42nd & 43rd Sts,8am - 2pm,Farmers Market
+NY,Queens,Cunningham Park's Down to Earth Farmers' Market,Union Tpk & 196 Pl,9am-2pm,Farmers Market
+NY,Queens,Ditmars Park Farmstand,"Steinway St bet Ditmars Blvd & 23rd Ave., at Ditmars Park",9:30am-2pm,Farmers Market
+NY,Queens,The Laurelton Farmers Market,"241st and 144st Road, Laurelton NY",10am-2pm,Farmers Market
+NY,Queens,Guy R Brewer Boulevard Farmers Market at NYC Health + Hospitals/Queens,114-02 Guy R Brewer Blvd,8am-4pm,Farmers Market
+NY,Brooklyn,Teens for Food Justice Fresh Food Box & Farmstand at Brownsville Collaborative Middle School,85 Watkins Street,4-6pm,Farmers Market
+NY,Brooklyn,McCarren Park Greenmarket,Union Ave bet Driggs and N 12th Sts,8am - 2pm,Farmers Market
+NY,Brooklyn,Edible Schoolyard NYC's Farm Stand at PS 216,E 1st St & Avenue X,1:45pm-2:45pm,Farmers Market
+NY,Brooklyn,Carroll Gardens Greenmarket,Carroll St bet Smith & Court Sts,8am - 2pm,Farmers Market
+NY,Brooklyn,Isabahlia Farm Stand,514 Rockaway Ave,"(F) 9am - 4pm (S) 9am-3pm",Farmers Market
+NY,Brooklyn,Grand Army Plaza Greenmarket,"Flatbush Ave. & Prospect Park W., at Prospect Park’s NW Entrance",8am-4pm,Farmers Market
+NY,Brooklyn,McGolrick Park's Down to Earth Farmers's Market,Russell St. & Nassau Ave. (center of park),10am - 3pm,Farmers Market
+NY,Brooklyn,6th Ave Sunset Park Greenmarket,44th St & 6th Ave,8am-3pm,Farmers Market
+NY,Brooklyn,RB Bushwick Farmers' Market at Maria Hernandez Park,Knickerbocker Ave & Starr St,9am-4pm,Farmers Market
+NY,Brooklyn,Red Hook Farm Stand,560 Columbia St,10am-3pm,Farmers Market
+NY,Brooklyn,4th Ave Sunset Park Greenmarket,4th Ave bet 59th & 60th Sts,8am - 3pm,Farmers Market
+NY,Staten Island,Goodhue Center Go!Healthy Farm Stand,301 Prospect Ave,11am-2pm,Farmers Market
+NY,Staten Island,St. George Greenmarket,Hyatt St & St Marks Pl,"8am - 2pm -1pm (winter)",Farmers Market
+NY,Staten Island,Staten Island Mall Greenmarket,Marsh Ave & Ring Rd,"9am - 2pm -1pm (winter)",Farmers Market
+NY,Staten Island,Harvest Home Jacobi Hospital Farmers' Market,"1400 Pelham Pkwy S, at Eastchester Rd",8am-4pm,Farmers Market
+NY,Staten Island,Kingsbridge-Riverdale Farmers' Market,260 W 231st St,9am-5pm,Farmers Market
+NY,Staten Island,Bronx Borough Hall Greenmarket,Grand Concourse bet E 161st & 162nd Sts,8am-4pm,Farmers Market
+NY,Staten Island,Morning Glory Market at the New York Botanical Gardens,2900 Southern Blvd.,10am-3pm,Farmers Market
+NY,Staten Island,Poe Park Greenmarket,E 192 St & Grand Concourse,8am - 3pm,Farmers Market
+NY,Staten Island,"Whitney Young, Jr. Campus Go!Healthy Food Box",1919 Prospect Ave.,12 - 2p.m.,Farmers Market
+NY,Staten Island,Harvest Home St. Mary's Park Farm Stand,E 149th St & Eagle Ave,8am-4pm,Farmers Market
+NY,Long Island,Harvest Home Co-op City Farm Stand,Asch Loop & Aldrich St,8am-4pm,Farmers Market
+NY,Long Island,Bronx Family Center Go!Healthy Farm Stand,1515 Southern Blvd,11am-2pm,Farmers Market
+NY,Long Island,Mott Haven Farmers Market,545 E 142nd St,9am-3pm,Farmers Market
+NY,Long Island,Lincoln Hospital Greenmarket,E 149th St bet Park & Morris Aves,8am - 3pm,Farmers Market
+NY,Long Island,Harvest Home North Central Bronx Farmers' Market,Mosholu Pkwy & Jerome Ave,8am-4pm,Farmers Market
+NY,Long Island,Van Cortlandt Park Alliance Amalgamated Housing Youth Farmstand,Orloff Ave & Gale Pl,1-6:30pm,Farmers Market
+NY,Long Island,Riverdale Y Sunday Farmers Market,4545 Independence Ave. (Riverdale Temple Parking Lot),9am-2pm,Farmers Market
+NY,Long Island,Harvest Home Hunts Point Farm Stand,E 163rd St & Hunts Point Ave,8am-4pm,Farmers Market
+NY,Long Island,New Roots Community Farm Stand,670 Grand Concourse (153rd & Grand Concourse),3pm-7pm,Farmers Market
+NY,Long Island,BronxWorks Farm Stand,1130 Grand Concourse,10am-4pm,Farmers Market
+NY,Manhattan,William Greenberg  Dessert,"1 W 59Th St New York, NY 10019",Mon-Sun 10 am - 8 pm,Bakery
+NY,Manhattan,Levain Bakery,"167 W 74th St New York, NY 10023",Mon-Sun 10 am - 8 pm,Bakery
+NY,Manhattan,Angelina Bakery,"575 8th Ave New York, NY 10018",Mon-Sun 8 am - 8 pm,Bakery
+NY,Manhattan,Bibble & Sip,"253 W 51st St New York, NY 10019",Mon-Sun 9 am - 8 pm,Bakery
+NY,Manhattan,Dominique Ansel Workshop,"17 E 27th St New York, NY 10016",Mon-Sun 10 am - 8 pm,Bakery
+NY,Manhattan,Mile-Feuille Bakery,"2175 Broadway New York, NY 10024",Mon-Sun 11 am - 8 pm,Bakery
+NY,Manhattan,Fabrigue Bakery,"348 W 14th St New York, NY 10014",Mon-Sun 8 am - 8 pm,Bakery
+NY,Manhattan,Mei Lai Wah Bakery,"64 Bayard St New York, NY 10013",Mon-Sun 9 am - 8 pm,Bakery
+NY,Manhattan,Mah-Ze-Dhar Bakery,"28 Greenwich Ave New York, NY 10011",Mon-Sun 7 am - 8 pm,Bakery
+NY,Brooklyn,Mia's Bakery,"139 Smith St Brooklyn, NY 11201",Mon-Sun 7 am -10 pm,Bakery
+NY,Brooklyn,L'Appartement 4F,"115 Montague St Brooklyn, NY 11201",Mon-Sun 8 am -10 pm,Bakery
+NY,Brooklyn,Buttermilk Bakeshop,"260 5th Ave Brooklyn, NY 11215",Mon-Sun 9 am -10 pm,Bakery
+NY,Brooklyn,Bonjour Brooklyn,"1154 Broadway Brooklyn, NY 11221",Mon-Sun 10 am -10 pm,Bakery
+NY,Brooklyn,Ceremonia Bakeshop,"743 Driggs Ave Brooklyn, NY 11211",Mon-Sun 8 am -10 pm,Bakery
+NY,Brooklyn,Mile-Feuille Bakery,"622 Vanderbilt Ave Brooklyn, NY 11238",Mon-Sun 8 am -9 pm,Bakery
+NY,Brooklyn,II Fornaretto bakery,"7616 17th Ave Brooklyn, NY 11214",Mon-Sun 9 am -9 pm,Bakery
+NY,Brooklyn,La Bicyclette Bakery,"667 Driggs Ave Brooklyn, NY 11211",Mon-Sun 10 am -9 pm,Bakery
+NY,Brooklyn,Ursula BK,"724 Sterling Pl Brooklyn, NY 11216",Mon-Sun 11 am -9 pm,Bakery
+NY,Brooklyn,Le Petit Monstre,"309 Tompkins Ave Brooklyn, NY 11221",Mon-Sun 8 am -9 pm,Bakery
+NY,Queens,LaBoulangerie,"109-01 72nd Rd Forest Hills,Queens, NY 11375",Mon-Sun 9 am -9 pm,Bakery
+NY,Queens,The Fresh Workshop,"3839 Bell Blvd Bayside,Queens, NY 11361",Mon-Sun 10 am -9 pm,Bakery
+NY,Queens,Cannelle Patisserie,"75-59 31 Ave Flr Grd East Elmhurst,Queens, NY 11370",Mon-Sun 11 am -9 pm,Bakery
+NY,Queens,Bonelle Pastry Shop,"10830 Ascan Ave Forest Hills,Queens, NY 11375",Mon-Sun 7 am -9 pm,Bakery
+NY,Queens,Yeh's Bakery,"57-25 Main St Flushing,Queens, NY 11355",Mon-Sun 8 am -9 pm,Bakery
+NY,Queens,Lulu's Bakery,"179-04 / 06 Union Tpke Fresh Meadows, Queens,NY 11366",Mon-Sun 9 am -9 pm,Bakery
+NY,Queens,Joe's Sicilian Bakery,"212-16 48th Ave Bayside, NY 11364",Mon-Sun 10 am -9 pm,Bakery
+NY,Queens,Kora,"43-46 10th St Long Island City,Queens, NY 11101",Mon-Sun 8 am -9 pm,Bakery
+NY,Queens,Queens Bake House,"33-04 Broadway Astoria,Queens, NY 11106",Mon-Sun 9 am -9 pm,Bakery
+NY,Queens,Cerasella,"36-27 31st St Astoria,Queens, NY 11106",Mon-Sun 10 am -9 pm,Bakery
+NY,Long Island,Emilia's Bakehouse café,"2030 Rt 112 medford, NY 11763",Mon-Sun 8 am - 7 pm,Bakery
+NY,Long Island,BK's Tasty Takeways,"199 E Main St Babylon, NY 11702",Mon-Sun 9 am - 7 pm,Bakery
+NY,Long Island,Dolci Momenti Bakery,"61 N Ocean Ave Patchogue, NY 11772",Mon-Sun 10 am - 7 pm,Bakery
+NY,Long Island,Mademoiselle Patisserie,"64 N Ocean Ave Patchogue, NY 11772",Mon-Sun 7 am -8 pm,Bakery
+NY,Long Island,Mario Bakehouse,"167 E Main St Babylon, NY 11702",Mon-Sun 7 am -8 pm,Bakery
+NY,Long Island,The Cake Don,"605 W Jericho Tpke Huntington, NY 11743",Mon-Sun 7 am -8 pm,Bakery
+NY,Long Island,The cookie Shop,"115 Mark Tree Rd Ste 6 Brookhaven, NY 11720",Mon-Sun 7 am -8 pm,Bakery
+NY,Long Island,Familia Café,"227 E Main St Patchogue, NY 11772",Mon-Sun 7 am -8 pm,Bakery
+NY,Long Island,Alpine Pasrtry,"59 Rte 111 Smithtown, NY 11787",Mon-Sun 7 am -8 pm,Bakery
+NY,Long Island,La Roma Pastry Shop,"1611 Smithtown Ave Bohemia, NY 11716",Mon-Sun 7 am -8 pm,Bakery
+NY,Staten Island,CakeChef Bakery,"957 Jewett Ave Staten Island, NY 10314",Mon-Sun 8 am - 7 pm,Bakery
+NY,Staten Island,Royal Crown Bakery,"1350 Hylan Blvd Staten Island, NY 10305",Mon-Sun 9 am - 7 pm,Bakery
+NY,Staten Island,Piece A Cake,"77 New Dorp Ln New York, NY 10306",Mon-Sun 10 am - 7 pm,Bakery
+NY,Staten Island,The Sweet Life Bakeshop,"1676 Victory Blvd Staten Island, NY 10314",Mon-Sun 7 am - 7 pm,Bakery
+NY,Staten Island,The Nuetta Culture,"1226 Forest Ave Staten Island, NY 10310",Mon-Sun 8 am - 7 pm,Bakery
+NY,Staten Island,Bake Culture,"55 Richmond Ter Staten Island, NY 10301",Mon-Sun 9 am - 7 pm,Bakery
+NY,Staten Island,Mark's Bake Shoppe,"3479 Richmond Rd Staten Island, NY 10306",Mon-Sun 10 am - 7 pm,Bakery
+NY,Staten Island,Annadale Bakery,"821 Annadale Rd Staten Island, NY 10312",Mon-Sun 8 am - 7 pm,Bakery
+NY,Staten Island,Alfonso's Pastry Shoppe,"1899 Victory Blvd Staten Island, NY 10314",Mon-Sun 9 am - 7 pm,Bakery
+NY,Staten Island,Holtermann's Bakery,"405 Arthur Kill Rd Staten Island, NY 10308",Mon-Sun 10 am - 7 pm,Bakery
+NJ,Middlesex,Laffair II Bake Shop,"312 Rues Ln East Brunswick, NJ 08816",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Middlesex,Buttercream Dreams,"350 Rues Ln East Brunswick, NJ 08816",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Middlesex,Amici Bakery,"477 Spotswood Englishtown Rd Monroe Township, NJ 08831",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Middlesex,Nothing Bundt Cakes,"1443 US Route 1 North Brunswick, NJ 08902",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Middlesex,Krystal Bakery,"100 Main St Sayreville, NJ 08872",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Middlesex,The Bake Shop,"1670 Oak Tree Rd Edison, NJ 08820",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Middlesex,Bridgewater Bakery,"150 Adamsville Rd N Bridgewater, NJ 08807",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Middlesex,Nossa Aldeia Portuguese Bakery & Deli,"30 Main St South River, NJ 08882",Mon-Sun 8 am - 6 pm,Bakery
+NJ,Middlesex,Sunmerry Bakery,"561 US 1 Edison, NJ 08817",Mon-Sun 9 am - 6 pm,Bakery
+NJ,Middlesex,La Bon Bake Shoppes,"2062 New Jersey 27 Edison, NJ 08817",Mon-Sun 10 am - 6 pm,Bakery
+NJ,Morrise,Giancarlos Bakery & Pastry Shop,"410 Rte 10 Ste 10 Ledgewood, NJ 07852",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Morrise,Sophia's Bakery,"271 US-46 Mine Hill, NJ 07803",Mon-Sun 8 am - 6 pm,Bakery
+NJ,Morrise,Dulce Aroma Bakery,"389 Dover-Chester Rd Randolph, NJ 07869",Mon-Sun 9 am - 6 pm,Bakery
+NJ,Morrise,Suzi Cakes," 405 state park st, Morristown, NJ 07960",Mon-Sun 10 am - 6 pm,Bakery
+NJ,Morrise,Sweet Shansations,"317 US 46 Parsippany, NJ 07054",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Morrise,Verrilli's Bakery,"3 Martin Luther King Ave Morristown, NJ 07960",Mon-Sun 8 am - 6 pm,Bakery
+NJ,Morrise,Uncle Giuseppe's marketplace,"1711 Rte 10 E Morris Plains, NJ 07950",Mon-Sun 9 am - 6 pm,Bakery
+NJ,Morrise,Neverland Bake Shoppe,"56 st, Mount Arlington, NJ 07856",Mon-Sun 10 am - 6 pm,Bakery
+NJ,Morrise,Hacklebarney Farm Cider Mill,"104 State Park Rd Chester, NJ 07930",Mon-Sun 11 am - 6 pm,Bakery
+NJ,Morrise,Pergamino's Bakery $ Café,"720 Main St Boonton, NJ 07005",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Essex,Mattarello Bakery & Café,"410 Rte 10 Ste 10 Ledgewood, NJ 07852",Mon-Sun 8 am - 6 pm,Bakery
+NJ,Essex,Bloom Cakes & Bakery,"79 Bloomfield Ave Unit B Caldwell, NJ 07006",Mon-Sun 9 am - 6 pm,Bakery
+NJ,Essex,Jayce Baudry French Pastry,"17 Church St Montclair, NJ 07042",Mon-Sun 10 am - 6 pm,Bakery
+NJ,Essex,West orange Bake Shop,"480 Pleasant Valley Way West Orange, NJ 07052",Mon-Sun 11 am - 6 pm,Bakery
+NJ,Essex,Gencarelli's Bakery,"446 Broad St Bloomfield, NJ 07003",Mon-Sun 7 am - 7 pm,Bakery
+NJ,Essex,Natale's Summit Bakery,"185 Broad St Summit, NJ 07901",Mon-Sun 8 am - 6 pm,Bakery
+NJ,Essex,Willow & Olivia Creations,"255 Main Street West Orange, NJ 07052",Mon-Sun 9 am - 6 pm,Bakery
+NJ,Essex,Supreme Bakery,"40 Main St West Orange, NJ 07052",Mon-Sun 10 am - 6 pm,Bakery
+NJ,Essex,Sorrento Bakery,"36 Eagle Rock Ave East Hanover, NJ 07936",Mon-Sun 11 am - 6 pm,Bakery
+NJ,Essex,Calandra's Itialian & French Bakery,"204 1st Ave W Newark, NJ 07107",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Union,Lokl Café,"80 South St Morristown, NJ 07960",Mon-Sun 8 am - 6 pm,Bakery
+NJ,Union,Krishenbaum Baking,"62 Elm St Westfield, NJ 07090",Mon-Sun 9 am - 6 pm,Bakery
+NJ,Union,Bovella's Pastry Shoppe,"101 E Broad St Westfield, NJ 07090",Mon-Sun 10 am - 6 pm,Bakery
+NJ,Union,Delice Macrons,"19 Eastman St Cranford, NJ 07016",Mon-Sun 11 am - 6 pm,Bakery
+NJ,Union,Victoria's Cake,"409 Westfield Ave Westfield, NJ 07090",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Union,Swiss pastry Shoppe,"1711 E 2nd St Scotch Plains, NJ 07076",Mon-Sun 8 am - 6 pm,Bakery
+NJ,Union,Papa Ganache,"106 N Union Ave Cranford, NJ 07016",Mon-Sun 9 am - 6 pm,Bakery
+NJ,Union,Gigi's Cupcakes,"1925 Springfield Ave Maplewood, NJ 07040",Mon-Sun 10 am - 6 pm,Bakery
+NJ,Union,Natale's Summit Bakery,"185 Broad St Summit, NJ 07901",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Union,Pinho's Bakery,"1027 Chestnut St Roselle, NJ 07203",Mon-Sun 8 am - 6 pm,Bakery
+NJ,Bergen,Sook Pastry,"24 S Broad St Ridgewood, NJ 07450",Mon-Sun 9 am - 6 pm,Bakery
+NJ,Bergen,CiCi's Pastry,"24-16 S Broad St Ridgewood, NJ 07450",Mon-Sun 10 am - 6 pm,Bakery
+NJ,Bergen,Pierre French Bakery,"95 Broadway Elmwood Park, NJ 07407",Mon-Sun 11 am - 6 pm,Bakery
+NJ,Bergen,Balthazar Bakery,"214 S Dean St Englewood, NJ 07631",Mon-Sun 6 am - 6 pm,Bakery
+NJ,Bergen,Nothing Bundt Cakes,"393 Route 17 S Paramus, NJ 07652",Mon-Sun 7 am - 6 pm,Bakery
+NJ,Bergen,Hackensack Pastry Shop,"184 Hudson St Hackensack, NJ 07601",Mon-Sun 8 am - 6 pm,Bakery
+NJ,Bergen,Dulce DE Leche,"55 W Palisade Ave Englewood, NJ 07631",Mon-Sun 9 am - 6 pm,Bakery
+NJ,Bergen,Joes Cake,"257 Westwood Ave Westwood, NJ 07675",Mon-Sun 10 am - 6 pm,Bakery
+NJ,Bergen,Rispoli Pastry Shop,"23 Emerson Plz E Emerson, NJ 07630",Mon-Sun 11 am - 6 pm,Bakery
